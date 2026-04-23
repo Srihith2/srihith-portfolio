@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/srihith-portfolio/static/css/main.dbdd1566.css",
+    "main.js": "/srihith-portfolio/static/js/main.9089e06e.js",
+    "static/js/453.35cedebc.chunk.js": "/srihith-portfolio/static/js/453.35cedebc.chunk.js",
+    "static/media/profile.jpg": "/srihith-portfolio/static/media/profile.6d7bb88df2dfe8ef2e51.jpg",
+    "index.html": "/srihith-portfolio/index.html",
+    "main.dbdd1566.css.map": "/srihith-portfolio/static/css/main.dbdd1566.css.map",
+    "main.9089e06e.js.map": "/srihith-portfolio/static/js/main.9089e06e.js.map",
+    "453.35cedebc.chunk.js.map": "/srihith-portfolio/static/js/453.35cedebc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbdd1566.css",
+    "static/js/main.9089e06e.js"
+  ]
+}
